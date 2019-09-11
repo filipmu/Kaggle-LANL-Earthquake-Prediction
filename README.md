@@ -45,8 +45,7 @@ Features were ranked in order of absolute correlation (ignoring features where c
 #### Approach 2 - model-based
 Features were selected using the feature importances given by the LGBM model.  5- fold cross-validation was used, grouping experiments within the folds.  This resulted in an ordered list of features.
 
-### Training and model selection
-####Model combinations
+### Training and Model combinations
 The following commbinations were made, resulting in 384 models
 n_fold of 5, 14, 20.  For n_fold of 14, experiments were not split between folds.
 number of features of 10, 15, 20, 30, 50, 60, 70, all
@@ -54,7 +53,7 @@ features sordered via correlation, or via model
 number of leaves of 31, 51, 91, 121
 boost type of gbdt or random forest
 
-#### Model selection
+### Model selection
 Model selection was based on the best cross-validation scores.  The contest allowed two submissions to be considered. These were selected so one was a result of cross-validation which does not group experiments, and one where experiment grouping was allowed. 
 
 
