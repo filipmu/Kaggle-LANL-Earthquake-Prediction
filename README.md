@@ -6,6 +6,7 @@ The goal of this competition was to predict the timing of a laboratory earthquak
 More info can be found at the Kaggle site: https://www.kaggle.com/c/LANL-Earthquake-Prediction/overview
 
 
+![Test DEscr](https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true)
 
 
 
