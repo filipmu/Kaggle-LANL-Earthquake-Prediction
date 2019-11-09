@@ -61,3 +61,4 @@ Model selection was based on the best cross-validation scores.  The contest allo
 
 ![MPreds](https://raw.githubusercontent.com/filipmu/Kaggle-LANL-Earthquake-Prediction/master/preds.png)
 
+Full notebook (via nbviewer): https://nbviewer.jupyter.org/github/filipmu/Kaggle-LANL-Earthquake-Prediction/blob/master/Kaggle%20LANL%20Earthquake%20Prediction%2013-best%20scoring%20submission.ipynb
